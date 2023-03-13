@@ -2,6 +2,7 @@
 - 👀 I’m interested in >> Cyber Security, Data Science, Software Engineering
 - 🌱 I’m currently learning >> Data Analytics
 - 💞️ I’m looking to collaborate on >> Coding Projects
+- 🔬 I'm a researcher
 - 👨🏻‍🎓 I'm a graduate of Bachelor of Science in Electronics and Communications Engineering
 - 🏅 I'm a certified IBM Cyber Security Analyst
 - 📫 How to reach me >> just message me at https://www.linkedin.com/in/ejmasaga-cybersecurityanalyst/
