@@ -5,6 +5,7 @@
 - 🔬 I'm a researcher
 - 👨🏻‍🎓 I'm a graduate of Bachelor of Science in Electronics and Communications Engineering
 - 🏅 I'm a certified IBM Cyber Security Analyst
+- 🏅 I'm a certified Google Data Analyst
 - 📫 How to reach me >> just message me at https://www.linkedin.com/in/ejmasaga-cybersecurityanalyst/
 
 <!---
