@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 #### Other Profiles:
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-lightblue)](https://www.kaggle.com/earljohnmasaga)
 [![HacktheBox](https://img.shields.io/badge/HTB-Profile-green)](https://app.hackthebox.com/profile/1447060)
-[![CodeForces](https://img.shields.io/badge/CTF-Profile-red)](https://codeforces.com/profile/HORlKlTA)
+[![CodeForces](https://img.shields.io/badge/CodeForces-Profile-red)](https://codeforces.com/profile/HORlKlTA)
 [![Tableau](https://img.shields.io/badge/Tableau-Profile-white)](https://public.tableau.com/app/profile/earl.masaga)
 [![ACM](https://img.shields.io/badge/ACM-Profile-blue)](https://services.acm.org/public/vcard/vcard.cfm?handle=emasaga)
 [![Github](https://img.shields.io/badge/Github-profile-black)](https://github.com/HorikitaSuzuneTsundere)
