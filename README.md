@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://horikitasuzunetsundere.github.io/ejmasaga-portfolio/](https://horikitasuzunetsundere.github.io/ejmasaga-portfolio/)
+- 👨‍💻 All of my projects are available at [Hori's Projects](https://horikitasuzunetsundere.github.io/ejmasaga-portfolio/)
 
-- 📝 I regularly write articles on [https://www.researchgate.net/profile/Earl-John-Masaga](https://www.researchgate.net/profile/Earl-John-Masaga)
+- 📝 I regularly write articles on [Book of Wisdom](https://www.researchgate.net/profile/Earl-John-Masaga)
 
 - 💬 Ask me about **anything 😁😂**
 
-- 📫 How to reach me **personalearljohn@gmail.com**
+- 📫 How to reach me [Hori's Launchpad](https://discord.gg/dQq3ZRAE)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/emasaga-researcher/](https://www.linkedin.com/in/emasaga-researcher/)
+- 📄 Know about my experiences [Click Here!](https://www.linkedin.com/in/emasaga-researcher/)
 
 - ⚡ Fun fact **I'm on a quest for knowledge.**
 
