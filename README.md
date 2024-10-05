@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HORI</h1>
 <h3 align="center">A highly motivated developer</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Kernel Development**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
@@ -35,7 +35,6 @@ You can click the Preview link to take a look at your changes.
 [![Tableau](https://img.shields.io/badge/Tableau-Profile-white)](https://public.tableau.com/app/profile/earl.masaga)
 [![ACM](https://img.shields.io/badge/ACM-Profile-blue)](https://services.acm.org/public/vcard/vcard.cfm?handle=emasaga)
 [![Rsearch](https://img.shields.io/badge/ResearchGate-profile-white)](https://www.researchgate.net/profile/Earl-John-Masaga)
-[![Replit](https://img.shields.io/badge/Replit-profile-darkred)](https://replit.com/@HorikitaSuzune)
 [![Orcid](https://img.shields.io/badge/Orcid-profile-lightgreen)](https://orcid.org/my-orcid?orcid=0009-0008-6006-2891)
 [![Sketch](https://img.shields.io/badge/Sketchfab-profile-lightblue)](https://sketchfab.com/emasaga)
 [![Leetcode](https://img.shields.io/badge/Leetcode-profile-orange)](https://leetcode.com/user0339wX/)
